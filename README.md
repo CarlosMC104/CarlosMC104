@@ -36,8 +36,8 @@ const Carlos Mohedano Callejo = {
 <h2> Contacta conmigo 🤝🏻 </>
   <br><br/>
 <p align="center">
-<a href="mailto:Carlos.Mohedano@alu.uclm.es" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-Carlos.Mohedano@uclm.es-blue?style=flat&logo=gmail"></a>
-<a href="https://www.instagram.com/carlosmc104" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@carlosmc104-blue?style=flat&logo=instagram"></a>
+<a href="mailto:Carlos.Mohedano@alu.uclm.es" target="blank"><img alt="Email" src="https://img.shields.io/badge/Email-Carlos.Mohedano@uclm.es-blue?style=flat&logo=gmail"></a>
+<a href="https://www.instagram.com/carlosmc104" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@carlosmc104-blue?style=flat&logo=instagram"></a>
 
 <p/>
   
