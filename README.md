@@ -6,8 +6,8 @@ const Carlos Mohedano Callejo = {
   Edad:21,
   Estudio: "Ingeniería Informática",
   Lugar_de_residencia: "Chillón, Ciudad Real",
-  Email: "Carlos.Mohedano@alu.uclm.es"
-  Página Web: (https://carlosmc104.github.io)
+  Email: "Carlos.Mohedano@alu.uclm.es",
+  Página_Web: <a href="https://carlosmc104.github.io" target="blank"><img alt="Página Web" src="https://img.shields.io/badge/Instagram-@carlosmc104-blue?style=flat&logo=instagram></a>
 }
 ```
 <h2>Lenguajes y Herramientas 👨‍💻</>
