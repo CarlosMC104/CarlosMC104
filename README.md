@@ -45,7 +45,7 @@
  
 <p align="center">
 <a href="mailto:carlosmohedanocallejo@gmail.com" ><img alt="Email" src="https://img.shields.io/badge/Email-carlosmohedanocallejo@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-<a href="" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-@carlosmc104-blue?style=for-the-badge&logo=linkedin&logoColor=blue"></a> 
+<a href="https://www.linkedin.com/in/carlosmc104/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-@carlosmc104-blue?style=for-the-badge&logo=linkedin&logoColor=blue"></a> 
 <a href="https://carlosmc104.github.io"><img alt="Página Web" src="https://img.shields.io/badge/Página Web-carlosmc104.github.io-blue?style=for-the-badge&logo=WWW"></a>
 <p/>
 
