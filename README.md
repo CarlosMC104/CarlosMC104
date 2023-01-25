@@ -34,10 +34,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
-<div align="center"><h1> Estadisticas 📈 </h1></div>   
+<!-- <div align="center"><h1> Estadisticas 📈 </h1></div>   
 <div align="center">  
      <img src="https://github-readme-stats.vercel.app/api?username=CarlosMC104&?count_private=true&theme=merko"><img/>
-</div>
+</div> -->
 
 <div align="center"><h1>Contacta conmigo 🤝🏻 </h1></div>  
  
